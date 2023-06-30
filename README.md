@@ -1,4 +1,4 @@
-# XignCode-Emulator
+# XignCode Emulator
 Uploaded for IoT research purposes.
 
 ## Disclaimer
