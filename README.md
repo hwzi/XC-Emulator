@@ -1,5 +1,6 @@
 # XignCode Emulator
-Outdated(?) since 2016. Can use [module dumper](https://github.com/hwzi/XC-Module-Dumper) to dump needed file(s).  
+Outdated(?) since 2016.  
+If you know how this works, use my [module dumper](https://github.com/hwzi/XC-Module-Dumper). 
   
   Uploaded for IoT research purposes.
 
